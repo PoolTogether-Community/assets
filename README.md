@@ -5,8 +5,8 @@ Feel free to use the files for your PoolTogether artworks and content!
 
 ## PoolTogether Assets
 The folder structure is as follows:
-- General: Graphics, Icons and more
-- Pooly: Everything related to the purple bird
+- [General](https://github.com/PoolTogether-Community/assets/tree/main/General): Graphics, Icons and more
+- [Pooly](https://github.com/PoolTogether-Community/assets/tree/main/pooly): Everything related to the purple bird
 - [Templates](https://github.com/PoolTogether-Community/assets/tree/main/templates): Templates or backgrounds for re-usable designs
 - [Emojis](https://github.com/PoolTogether-Community/assets/tree/main/emojis): Emojis used on the PoolTogether Discord Server
 - Items: Items from previous NFT campaigns
