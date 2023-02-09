@@ -1,5 +1,5 @@
-# assets
-## Hey Poolers
+# Hey Poolers
+
 Welcome to our community repository.
 Feel free to use the files for your PoolTogether artworks and content!
 
