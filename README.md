@@ -8,6 +8,7 @@ The folder structure is as follows:
 - General: Graphics, Icons and more
 - Pooly: Everything related to the purple bird
 - [Templates](https://github.com/PoolTogether-Community/assets/tree/main/templates): Templates or backgrounds for re-usable designs
+- [Emojis](https://github.com/PoolTogether-Community/assets/tree/main/emojis): Emojis used on the PoolTogether Discord Server
 - Items: Items from previous NFT campaigns
 
 ## Contributing
